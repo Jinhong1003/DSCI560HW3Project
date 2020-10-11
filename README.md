@@ -1,7 +1,7 @@
 # DSCI560HW3Project
 MyWonder for big data analytics and visualization
-# 1.Project summary
-MyWonder is a new platform that perform an analysis of big data and visualization.
+## 1.Project summary
+MyWonder is a new platform that perform an analysis of big data and visualization.  
 At the moment, data analysis is extremely time consuming, it is common to spend several hours to have a visualization based on big data. As a result, our work may not be accomplished on time, this may cause a really great economic damage.
 MyWonder will overcome these shortcomings by distributing the files on the cloud which is really
 efficient so that users can save lots time.
