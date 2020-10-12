@@ -20,3 +20,4 @@ There are too many unnecessary intermediate links，when users give the team som
 c. Skills
 
 Users cannot understand the terminology and contents used in the user interface.
+## 6. Gantt Chart
