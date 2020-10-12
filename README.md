@@ -18,4 +18,5 @@ b. Transport/Waiting:
 There are too many unnecessary intermediate links，when users give the team some advices and want to have an update, they have to talk with customer support and then customer support talked to the designers, who then met with the developers, finally,  the backend team updating contents.
 
 c. Skills
+
 Users cannot understand the terminology and contents used in the user interface.
