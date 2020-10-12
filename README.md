@@ -21,4 +21,4 @@ c. Skills
 
 Users cannot understand the terminology and contents used in the user interface.
 ## 6. Gantt Chart
-<img width="1155" alt="Gantt_chart" src="https://user-images.githubusercontent.com/54864182/95720462-20972900-0c26-11eb-8915-e3b82a7c0ecc.png">
+![png](https://github.com/Jinhong1003/MyWonder-platform/blob/main/Gantt_chart.png)
