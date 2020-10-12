@@ -22,13 +22,19 @@ c. Skills
 Users cannot understand the terminology and contents used in the user interface.
 ## 3. Deliverables
 a. Original platform submission
+
 b. Powerpoint submission
+
 c. Release the October version of the platform 
 
 ## 4. Milestone
 a. Setting a person who can change the content directly
+
 b. Simplify the terminology and contents used in the user interface
+
+
 c. Separating testing and production environment 
+
 d. Setting an area to put a “Note” in our visualizations 
 ## 6. Gantt Chart
 <img width="1155" alt="Gantt_chart" src="https://user-images.githubusercontent.com/54864182/95721898-1ece6500-0c28-11eb-9d2d-ceb1588ddbcd.png">
